@@ -1,0 +1,53 @@
+{"fighters":[
+  {
+    "name": "Ankalev Magomed",
+    "attack": 88,
+    "defence": 92
+  },
+  {
+    "name": "Aspinnal Tom",
+    "attack": 94,
+    "defence": 85
+  },
+  {
+    "name": "Chimaev Khamzat",
+    "attack": 96,
+    "defence": 89
+  },
+  {
+    "name": "Della Maddalena Jack",
+    "attack": 90,
+    "defence": 80
+  },
+  {
+    "name": "Dvalishvili Merab",
+    "attack": 84,
+    "defence": 95
+  },
+  {
+    "name": "Makhachev Islem",
+    "attack": 91,
+    "defence": 97
+  },
+  {
+    "name": "Pantoja Alexandre",
+    "attack": 87,
+    "defence": 86
+  },
+  {
+    "name": "Pereira Alex",
+    "attack": 99,
+    "defence": 82
+  },
+  {
+    "name": "Topuria Ilia",
+    "attack": 93,
+    "defence": 84
+  },
+  {
+    "name": "Volkanovski Alexander",
+    "attack": 92,
+    "defence": 90
+  }
+]
+}
